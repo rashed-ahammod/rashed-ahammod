@@ -69,13 +69,13 @@ I like turning ideas into functional, scalable, and maintainable applications.
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,fastapi,php" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,restapi,php" />
 
 </div>
 
 ### Technologies
 
-`Node.js` · `Express.js` · `NestJS` · `Django` · `FastAPI` · `PHP`
+`Node.js` · `Express.js` · `NestJS`  · `RestAPI` · `PHP`
 
 ---
 
@@ -83,13 +83,13 @@ I like turning ideas into functional, scalable, and maintainable applications.
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 
 </div>
 
 ### Technologies
 
-`MySQL` · `PostgreSQL` · `MongoDB` · `SQLite`
+`MySQL` · `PostgreSQL` 
 
 ---
 
@@ -97,49 +97,17 @@ I like turning ideas into functional, scalable, and maintainable applications.
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,postman,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" />
 
 </div>
 
 ### Tools
 
-`Git` · `GitHub` · `VS Code` · `Visual Studio` · `Docker` · `Postman` · `Linux`
+`Git` · `GitHub` · `VS Code` · `Visual Studio`  · `Postman` 
 
----
 
-# 🧠 Full Stack Development
 
-I work across the complete web application stack.
 
-```text
-                    ┌─────────────────────┐
-                    │       FRONTEND      │
-                    │ React / Next.js     │
-                    │ HTML / CSS / JS     │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │         API         │
-                    │ REST APIs / HTTP    │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │       BACKEND       │
-                    │ Node / Django / PHP │
-                    │ Business Logic      │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │      DATABASE       │
-                    │ MySQL / PostgreSQL  │
-                    │ MongoDB / SQLite    │
-                    └─────────────────────┘
-```
-
----
 
 # 🚀 Featured Projects
 
@@ -187,34 +155,6 @@ A database-driven hospital management application designed to manage different h
 
 I build applications by connecting modern frontend interfaces with backend services and structured databases.
 
-### Typical Architecture
-
-```text
-┌──────────────┐
-│     User     │
-└──────┬───────┘
-       │
-       ▼
-┌──────────────┐
-│   Frontend   │
-│ React / Next │
-└──────┬───────┘
-       │
-       │ HTTP / REST
-       ▼
-┌──────────────┐
-│   Backend    │
-│ API / Logic  │
-└──────┬───────┘
-       │
-       ▼
-┌──────────────┐
-│   Database   │
-│ SQL / NoSQL  │
-└──────────────┘
-```
-
----
 
 # 🔐 Development Areas
 
@@ -252,9 +192,9 @@ I build applications by connecting modern frontend interfaces with backend servi
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rashed-ahammod&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashed-ahammod&layout=compact&hide_border=true&theme=tokyonight" />
 
 </div>
 
@@ -272,23 +212,7 @@ I build applications by connecting modern frontend interfaces with backend servi
 
 I'm continuously improving my skills in modern web development.
 
-```text
-┌───────────────────────────────────────────┐
-│                                           │
-│  ▸ Advanced React & Next.js               │
-│  ▸ TypeScript                              │
-│  ▸ Backend Architecture                   │
-│  ▸ RESTful API Design                     │
-│  ▸ Authentication & Authorization         │
-│  ▸ Database Optimization                  │
-│  ▸ Docker & Containerization              │
-│  ▸ Deployment & DevOps                    │
-│  ▸ System Design                           │
-│                                           │
-└───────────────────────────────────────────┘
-```
 
----
 
 # 🎯 2026 Goals
 
@@ -303,39 +227,7 @@ I'm continuously improving my skills in modern web development.
 * [ ] Contribute to open-source projects
 * [ ] Deploy and maintain production applications
 
----
 
-# 🧑‍💻 My Development Workflow
-
-```text
-        💡 Idea
-          │
-          ▼
-     📋 Planning
-          │
-          ▼
-     🎨 UI / UX Design
-          │
-          ▼
-     💻 Development
-          │
-          ▼
-      🔌 API Layer
-          │
-          ▼
-      🗄️ Database
-          │
-          ▼
-       🧪 Testing
-          │
-          ▼
-      🚀 Deployment
-          │
-          ▼
-      🔄 Improvement
-```
-
----
 
 # 💭 My Philosophy
 
