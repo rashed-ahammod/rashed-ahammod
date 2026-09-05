@@ -120,25 +120,7 @@ I build applications by connecting modern frontend interfaces with backend servi
 * CRUD Operations
 * Query Optimization
 
----
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rashed-ahammod&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashed-ahammod&layout=compact&hide_border=true&theme=tokyonight" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
