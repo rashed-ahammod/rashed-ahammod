@@ -36,16 +36,7 @@ I enjoy building complete web applications — from designing responsive user in
 
 I like turning ideas into functional, scalable, and maintainable applications.
 
-### What I Care About
 
-* 🎨 Clean and responsive UI
-* ⚡ Fast and efficient applications
-* 🔐 Secure authentication and authorization
-* 🧩 Maintainable code architecture
-* 🗄️ Efficient database design
-* 🔄 Reliable APIs
-* 📱 Responsive user experiences
-* 🚀 Production-ready applications
 
 ---
 
@@ -106,49 +97,6 @@ I like turning ideas into functional, scalable, and maintainable applications.
 `Git` · `GitHub` · `VS Code` · `Visual Studio`  · `Postman` 
 
 
-
-
-
-# 🚀 Featured Projects
-
-## 🍔 Food Management System
-
-A web-based food management platform designed to manage customers, orders, kitchen operations, and food-related workflows.
-
-### ✨ Features
-
-* 👤 Customer Dashboard
-* 🛒 Shopping Cart
-* 🍳 Kitchen Staff Management
-* 📦 Order Management
-* 🔐 Session-based Authentication
-* 🔄 AJAX-powered interactions
-* 🗄️ Relational Database
-* 📱 Responsive Interface
-
-### 🧰 Tech Stack
-
-`PHP` · `MySQL` · `HTML` · `CSS` · `JavaScript` · `AJAX`
-
----
-
-## 🏥 Hospital Management System
-
-A database-driven hospital management application designed to manage different hospital operations and user workflows.
-
-### ✨ Features
-
-* 👨‍⚕️ Doctor Management
-* 👤 Patient Management
-* 📅 Appointment Management
-* 🔐 Role-based Access
-* 🗄️ Database Management
-* 📋 CRUD Operations
-
-### 🧰 Tech Stack
-
-`C#` · `MySQL` · `OOP` · `Database Design`
-
 ---
 
 ## 🌐 Full Stack Web Applications
@@ -208,34 +156,7 @@ I build applications by connecting modern frontend interfaces with backend servi
 
 ---
 
-# 📈 Currently Learning
 
-I'm continuously improving my skills in modern web development.
-
-
-
-# 🎯 2026 Goals
-
-* [x] Build real-world web applications
-* [x] Work with relational databases
-* [x] Build backend applications
-* [x] Implement authentication systems
-* [ ] Build production-ready full-stack applications
-* [ ] Improve system design skills
-* [ ] Master TypeScript
-* [ ] Build scalable backend architectures
-* [ ] Contribute to open-source projects
-* [ ] Deploy and maintain production applications
-
-
-
-# 💭 My Philosophy
-
-> **Build things. Break things. Learn from them. Build better.**
-
-I believe the best way to become a better developer is through consistent practice, real-world projects, and solving problems that go beyond tutorials.
-
----
 
 # 🤝 Let's Connect
 
