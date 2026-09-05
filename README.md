@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Rashed
+# Hi, I'm Rashed
 
 ### 💻 Full Stack Web Developer
 
@@ -137,24 +137,6 @@ I'm always interested in:
 * 💡 Discussing software development
 
 <div align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
- 
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
- 
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
 
 ### ⭐ Thanks for visiting my profile!
 
