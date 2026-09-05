@@ -14,7 +14,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a **Full Stack Web Developer** and Computer Science & Engineering student at **American International University–Bangladesh (AIUB)**.
 
@@ -26,9 +26,9 @@ I like turning ideas into functional, scalable, and maintainable applications.
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
-## 🎨 Frontend Development
+##  Frontend Development
 
 <div align="left">
 
@@ -42,7 +42,7 @@ I like turning ideas into functional, scalable, and maintainable applications.
 
 ---
 
-## ⚙️ Backend Development
+##  Backend Development
 
 <div align="left">
 
@@ -56,7 +56,7 @@ I like turning ideas into functional, scalable, and maintainable applications.
 
 ---
 
-## 🗄️ Database
+##  Database
 
 <div align="left">
 
@@ -70,7 +70,7 @@ I like turning ideas into functional, scalable, and maintainable applications.
 
 ---
 
-## 🔧 Tools & Technologies
+##  Tools & Technologies
 
 <div align="left">
 
@@ -90,7 +90,7 @@ I like turning ideas into functional, scalable, and maintainable applications.
 I build applications by connecting modern frontend interfaces with backend services and structured databases.
 
 
-# 🔐 Development Areas
+# Development Areas
 
 ### Frontend
 
@@ -126,20 +126,20 @@ I build applications by connecting modern frontend interfaces with backend servi
 
 
 
-# 🤝 Let's Connect
+#  Let's Connect
 
 I'm always interested in:
 
-* 💼 Full Stack Development opportunities
-* 🚀 Building interesting web applications
-* 🤝 Collaborating on projects
-* 🌎 Open-source contributions
-* 💡 Discussing software development
+*  Full Stack Development opportunities
+*  Building interesting web applications
+*  Collaborating on projects
+*  Open-source contributions
+*  Discussing software development
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+###  Thanks for visiting my profile!
 
-**Let's build something meaningful. 🚀**
+**Let's build something meaningful. **
 
 </div>
