@@ -6,23 +6,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Building+Modern+Web+Applications;Frontend+%7C+Backend+%7C+Database;Turning+Ideas+Into+Web+Experiences" alt="Typing SVG" />
 
-<br/>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=36BCF7&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=rashed-ahammod&label=Profile%20Views&color=36BCF7&style=flat" />
 
 </div>
 
